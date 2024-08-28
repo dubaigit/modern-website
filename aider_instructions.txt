@@ -1,0 +1,13 @@
+echo "##active_line2##"
+1. Modernize the website design using CSS (you can use a CSS framework like Bootstrap or create custom styles).
+echo "##active_line3##"
+2. Add a responsive layout that works well on both desktop and mobile devices.
+echo "##active_line4##"
+3. Include at least two relevant pictures (you can use placeholder images from services like placeholder.com).
+echo "##active_line5##"
+4. Create a navigation menu with at least three items.
+echo "##active_line6##"
+5. Add some sample content to make the website more interesting.
+echo "##active_line7##"
+6. Ensure the website follows modern web design principles and best practices.
+echo "##active_line8##"
